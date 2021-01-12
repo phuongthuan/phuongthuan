@@ -1,5 +1,7 @@
 ### Hi there, I'm Thuan 👋
 
+![](https://komarev.com/ghpvc/?username=phuongthuan&color=c6a324)
+
 <!--
 **phuongthuan/phuongthuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
