@@ -1,23 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![](https://komarev.com/ghpvc/?username=phuongthuan&color=c6a324)
+<p>Welcome to my page! </br> I'm Thuan, Fullstack Developer from 🇻🇳 <b>Vietnam</b>, currently living in 🇻🇳 <b>Ho Chi Minh, Vietnam</b>. </p>
 
 #### 🙋‍♂️ About me
 
 - 👨‍💻 I'm a software engineer with more than 3 years of experience
-- 🔭 I’m currently working on Web and Mobile Development 📱 with Front End Engineer as the main role
-- 😊 Has a strong passion for programming
+- 🔭 Currently working on Web and Mobile Development 📱
+- 😊 Has a strong passion for programming 💻
 - 🌱 Love to learn, building, and self-development, always looking for new things
 
 #### 📫 How to reach me
 
 <p><a href="https://www.linkedin.com/in/thuannp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/7huannp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://dev.to/thng"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
-<p><a href="https://www.thuannp.com">Check out my website 🏠</a></p>
-
-
 #### 🧑‍💻 Things I code with
-
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -37,7 +33,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
   <img alt="Adobe Photoshop" src="http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
