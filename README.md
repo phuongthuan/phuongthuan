@@ -60,7 +60,7 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 
-#### 📫 Where to find me 
+#### 📫 How to reach me
 
 <p>
   <a href="https://www.linkedin.com/in/thuannp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
