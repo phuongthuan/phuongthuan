@@ -9,10 +9,6 @@
 - 😊 Has a strong passion for programming 💻
 - 🌱 Love to learn, building, and self-development, always looking for new things
 
-#### 📫 How to reach me
-
-<p><a href="https://www.linkedin.com/in/thuannp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/7huannp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://dev.to/thng"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-
 #### 🧑‍💻 Things I code with
 
 <p>
@@ -51,7 +47,7 @@
 
 ![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)
 
 #### 🔨 Operating System & Tools
 
@@ -64,7 +60,15 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 
+#### 📫 Where to find me 
 
+<p>
+  <a href="https://www.linkedin.com/in/thuannp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/7huannp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://www.facebook.com/thuannp95/"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+  <a href="https://stackoverflow.com/users/6570855/phuong-thuan"><img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a>
+  <a href="https://dev.to/thng"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+  
 ![phuongthuan's github stats](https://github-readme-stats.vercel.app/api?username=phuongthuan&show_icons=true&theme=gotham)
 
 <!--
