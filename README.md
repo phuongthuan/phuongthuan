@@ -1,13 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-<p>Welcome to my page! </br> I'm Thuan, Fullstack Developer from 🇻🇳 <b>Vietnam</b>, currently living in 🇻🇳 <b>Ho Chi Minh, Vietnam</b></p>
-
 #### 🙋‍♂️ About me
 
-- 👨‍💻 I'm a software engineer with more than 3 years of experience
-- 🔭 Currently working on Web and Mobile Development 📱
-- 😊 Has a strong passion for programming 💻
-- 🌱 Love to learn, building, and self-development, always looking for new things
+```
+#phuongthuan {
+  - 🇻🇳 Vietnamese
+  - 👨‍💻 I'm a Software Engineer with more than 3 years of experience
+  - 🔭 Currently working on Web and Mobile Development 📱
+  - 😊 Has a strong passion for programming 💻
+  - 🌱 Love to learn, building, and self-development, always looking for new things
+}
+```
 
 #### 🧑‍💻 Things I code with
 
@@ -30,8 +33,6 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
