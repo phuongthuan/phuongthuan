@@ -8,7 +8,7 @@
 <p><a href="https://www.thuannp.com"👉 Go to my 🏠</a></p>
 
 
-[![phuongthuan's github stats](https://github-readme-stats.vercel.app/api?username=phuongthuan&show_icons=true&theme=gotham)]
+![phuongthuan's github stats](https://github-readme-stats.vercel.app/api?username=phuongthuan&show_icons=true&theme=gotham)
 
 <!--
 **phuongthuan/phuongthuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
