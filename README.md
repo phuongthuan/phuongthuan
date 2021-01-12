@@ -69,10 +69,11 @@
   <a href="https://stackoverflow.com/users/6570855/phuong-thuan"><img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a>
   <a href="https://dev.to/thng"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
   
-![phuongthuan's github stats](https://github-readme-stats.vercel.app/api?username=phuongthuan&show_icons=true&theme=gotham)
 
 <!--
 **phuongthuan/phuongthuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![phuongthuan's github stats](https://github-readme-stats.vercel.app/api?username=phuongthuan&show_icons=true&theme=gotham)
 
 Here are some ideas to get you started:
 
