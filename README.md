@@ -4,7 +4,6 @@
 
 ```
 #phuongthuan {
-  - 🇻🇳 Vietnamese
   - 👨‍💻 I'm a Software Engineer with more than 4 years of experience
   - 🔭 Currently working on Web and Mobile Development 📱
   - 😊 Has a strong passion for programming 💻
