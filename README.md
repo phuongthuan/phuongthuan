@@ -1,16 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
+<h1>Hey! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-#### 🙋‍♂️ About me
-
-```
-#phuongthuan {
-  - 👨‍💻 I'm a Software Engineer with more than 4 years of experience
-  - 🔭 Currently working on Web and Mobile Development 📱
-  - 😊 Has a strong passion for programming 💻
-  - 🌱 Love to learn, building, and self-development, always looking for new things
-}
-```
-
+- 👨‍💻 My name is Thuan. I'm a Software Engineer with more than 4 years of experience
+- 🔭 Currently working on Web and Mobile Development 📱
+- 😊 Has a strong passion for programming 💻
+- 🌱 Love to learn, building, and self-development, always looking for new things
 
 #### 🧑‍💻 Things I code with
 
