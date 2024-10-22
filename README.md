@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-- 👨‍💻 My name is Thuan. I'm a Software Engineer
+👨‍💻 My name is Thuan. I'm a Software Engineer
 
 #### 🧑‍💻 Things I code with
 
